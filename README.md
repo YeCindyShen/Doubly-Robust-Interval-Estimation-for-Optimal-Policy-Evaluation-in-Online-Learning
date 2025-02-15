@@ -1,8 +1,8 @@
-##################################################################################################
+
 # This text describes the supplementary material and official implementation of	the paper
 #
 #     Doubly Robust Interval Estimation for Optimal Policy Evaluation in Online Learning
-################################################################################################
+
 
 ###  Authors ### 
 Ye Shen*, North Carolina State University;
@@ -17,7 +17,7 @@ Evaluating the performance of an ongoing policy plays a vital role in many areas
 ### Full paper  ###
 https://arxiv.org/abs/2110.15501
 
-######################################################################################
+
 
 I. Requirements
 
@@ -32,7 +32,7 @@ I. Requirements
  - `tqdm`
  - `functools`
 
-######################################################################################
+
 
 II. Contents
 
@@ -126,7 +126,7 @@ II. Contents
      D). `Plot.py`: codes for generating plots, including simulation studies and real data analysis.
  
 
-######################################################################################
+
 
 III. Simulation Studies
 
@@ -136,7 +136,7 @@ To reproduce the main experimental results in the simulation studies, run this c
 python Simulation.py 
 ```
 
-######################################################################################
+
 
 IV. Real Data Application
 
